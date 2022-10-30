@@ -5,14 +5,15 @@ A side-scrolling mobile game with 2D vintage style visuals was called Flappy Bir
 There is no variation or evolution in gameplay throughout the game, as the pipes always have the same gap between them and there is no end to the running track, having only the flap and ding sounds and the rising score as rewards.
 
 The game was created without the use of any framework, using only vanilla JavaScript.
+
 <h2 align="center">Screenshot 📸</h2>
 
-![img](/img/FBJS.gif#center)
-
-
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dannyyyspam/Flappy-Bird-JavaScript/main/img/FBJS.gif" alt="animated" />
+</p>
 
 ## Usage 💻
+
 Play the game here - [Flappy-Bird](https://flappy-bird-js-mu.vercel.app/)
 
 ## Contribution
